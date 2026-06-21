@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CineLog</string>
+
+    <!-- Home Screen -->
+    <string name="home_subtitle">Descobre, avalia e guarda os teus filmes favoritos.</string>
+    <string name="now_playing">🎬 Em Cartaz</string>
+    <string name="popular">🔥 Populares</string>
+    <string name="top_rated">⭐ Mais Bem Avaliados</string>
+
+    <!-- Search Screen -->
+    <string name="search_title">Pesquisar</string>
+    <string name="search_placeholder">Pesquisar filmes…</string>
+    <string name="search_hint">Escreve o nome de um filme para pesquisar</string>
+    <string name="no_results">Nenhum resultado encontrado</string>
+    <string name="clear">Limpar</string>
+
+    <!-- Detail Screen -->
+    <string name="back">Voltar</string>
+    <string name="synopsis">Sinopse</string>
+    <string name="no_synopsis">Sinopse não disponível.</string>
+    <string name="your_rating">A tua avaliação</string>
+    <string name="add_watchlist">Adicionar à Watchlist</string>
+    <string name="in_watchlist">Na Watchlist</string>
+
+    <!-- Watchlist Screen -->
+    <string name="watchlist_title">Watchlist</string>
+    <string name="watchlist_subtitle">%1$d filmes guardados</string>
+    <string name="empty_watchlist">A tua watchlist está vazia.\nAdiciona filmes a partir dos detalhes!</string>
+    <string name="remove">Remover</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Início</string>
+    <string name="nav_search">Pesquisar</string>
+    <string name="nav_watchlist">Watchlist</string>
+    <string name="nav_random">Aleatório</string>
+
+    <!-- Random Screen -->
+    <string name="random_title">Filme Aleatório</string>
+    <string name="random_button">Lançar Dado</string>
+    <string name="random_description">Não sabes o que ver? Lança o dado e nós escolhemos um filme para ti!</string>
+
+    <!-- General -->
+    <string name="error_title">Ops! Algo correu mal</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="loading">A carregar…</string>
+</resources>
